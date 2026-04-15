@@ -5,7 +5,7 @@ This project demonstrates data cleaning, analysis, and dashboard creation using 
 The goal is to convert raw data into meaningful insights through an interactive dashboard.
 
 ## 📂 Dataset
-- Dataset: Sales / Superstore Data  
+- Dataset: Superstore Sale  Data  
 - Rows: ~10,000 records  
 
 ## 🧹 Data Cleaning Process
@@ -13,8 +13,7 @@ The goal is to convert raw data into meaningful insights through an interactive 
 - Handled missing values  
 - Standardized text  
 - Formatted date columns  
-- Created Profit Margin (%)  
-
+  
 ## 📊 Dashboard Features
 ### KPIs 
 - Total Profit  
@@ -30,8 +29,6 @@ The goal is to convert raw data into meaningful insights through an interactive 
 - Sales by Category  
 - Sales by Region  
 - Yearly Sales Trend  
-- Profit by Segment  
-- Top Products  
 
 ## 🛠️ Tools & Skills Used
 - Microsoft Excel
