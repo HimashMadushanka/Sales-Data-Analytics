@@ -46,7 +46,5 @@ The goal is to convert raw data into meaningful insights through an interactive 
 2. Open in Excel  
 3. Use slicers to explore data  
 
-## 👨‍💻 Author
-K. Himash Madushanka
 
 
