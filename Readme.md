@@ -39,7 +39,8 @@ The goal is to convert raw data into meaningful insights through an interactive 
 - Dashboard Design
 
 ## 📸 Dashboard Preview
-![alt text](Capture-1.PNG)
+
+![Screenshot/Capture.PNG](Screenshot/Capture.PNG)
 
 ## 🚀 How to Use
 1. Download the Excel file  
